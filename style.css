@@ -1,0 +1,29 @@
+body{
+   background-color: dodgerblue; 
+   font-family: 'Source Sans 3', sans-serif;
+}
+.main{
+    background-color: white;
+    margin: 30px;
+    margin: auto;
+    width: 980px;
+    padding: 20px;
+    border: 2px white solid;
+    border-radius: 50px;
+    
+}
+.h{
+    margin-top: 0;
+}
+a{
+    color: white;
+    padding: 4px 20px;
+    border-radius: 16px;
+    background-color:dodgerblue ;
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    border: 2px white solid;
+    border-radius: 50px;
+}
